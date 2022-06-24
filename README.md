@@ -28,5 +28,4 @@ And if you see "Dev Container: Rust Template" in the bottom left corner, you're 
     - [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb)
     - [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml)
     - [crates](https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates)
-    - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 
